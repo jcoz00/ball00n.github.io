@@ -12,4 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can contact me using any of the button in the footer below.
+
+[jamescozzi](mailto:jamescozzi00@gmail.com)
