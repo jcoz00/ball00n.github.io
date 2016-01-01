@@ -1,0 +1,8 @@
+---
+layout: post
+title: Welcome to my site!
+---
+
+I actually found the time to get a website up and running. Well sort of. It's hosted on GitHub and not an actual website host, but it will do for the time being. Anyways, feel free to immerse yourself in my projects! To find me elsewhere on the web, check out the social button in the site footer. 
+
+~James
