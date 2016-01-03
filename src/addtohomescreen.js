@@ -146,14 +146,14 @@ for ( var lang in ath.intl ) {
 
 // default options
 ath.defaults = {
-	appID: 'org.cubiq.addtohome',		// local storage name (no need to change)
+	appID: 'com.greenballoon.jcoz00',		// local storage name (no need to change)
 	fontSize: 15,				// base font size, used to properly resize the popup based on viewport scale factor
 	debug: false,				// override browser checks
 	logging: false,				// log reasons for showing or not showing to js console; defaults to true when debug is true
 	modal: false,				// prevent further actions until the message is closed
 	mandatory: false,			// you can't proceed if you don't add the app to the homescreen
 	autostart: true,			// show the message automatically
-	skipFirstVisit: false,		// show only to returning visitors (ie: skip the first time you visit)
+	skipFirstVisit: true,		// show only to returning visitors (ie: skip the first time you visit)
 	startDelay: 1,				// display the message after that many seconds from page load
 	lifespan: 15,				// life of the message in seconds
 	displayPace: 1440,			// minutes before the message is shown again (0: display every time, default 24 hours)
@@ -167,7 +167,7 @@ ath.defaults = {
 	onAdd: null,				// when the application is launched the first time from the homescreen (guesstimate)
 	onPrivate: null,			// executed if user is in private mode
 	privateModeOverride: false,	// show the message even in private mode (very rude)
-	detectHomescreen: false		// try to detect if the site has been added to the homescreen (false | true | 'hash' | 'queryString' | 'smartURL')
+	detectHomescreen: true		// try to detect if the site has been added to the homescreen (false | true | 'hash' | 'queryString' | 'smartURL')
 };
 
 // browser info and capability
