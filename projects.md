@@ -12,7 +12,7 @@ The Cydia for non-jailbreakers.
 
 ### [Ball00n Hack]({{ site.baseurl }}/ball00n-hack)
 
-The Ball00n installer.
+Installs Ball00n on your iOS device.
 
 ### [Gif Widget]({{ site.baseurl }}/gif-widget)
 
