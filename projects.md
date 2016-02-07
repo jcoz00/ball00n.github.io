@@ -6,7 +6,7 @@ permalink: /projects/
 
 Welcome to my projects page! Feel free to explore!
 
-### [Ball00n Installer]({{ site.baseurl }}/Ball00n)
+### [Ball00n Installer]({{ site.baseurl }}/ball00n)
 
 The Cydia for non-jailbreakers.
 
