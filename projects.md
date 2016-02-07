@@ -6,13 +6,17 @@ permalink: /projects/
 
 Welcome to my projects page! Feel free to explore!
 
-### Ball00n Installer
+### [Ball00n Installer]({{ site.baseurl }}/Ball00n)
 
-### Ball00n Hack
+The Cydia for non-jailbreakers.
 
-A place to include any other types of information that you'd like to include about yourself.
+### [Ball00n Hack]({{ site.baseurl }}/ball00n-hack)
 
-### Gif Widget
+The Ball00n installer.
+
+### [Gif Widget]({{ site.baseurl }}/gif-widget)
+
+Gifs in your notification center! (In Progress)
 
 ### [Adobe Creative Cloud Disconnect]({{ site.baseurl }}/accd)
 
@@ -20,8 +24,8 @@ A .framework file that block connections to Adobe to let you use your Creative C
 
 ### Game Servers
 
-GreenBalloon Showdown!
+[GreenBalloon Showdown!]({{ greenballoon.psim.us }})
 
-TorchCraft Server
+TorchCraft Server (Discontinued)
 
-TorchCraft Build Server
+TorchCraft Build Server (Private)
