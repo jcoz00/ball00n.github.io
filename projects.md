@@ -14,7 +14,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### Gif Widget
 
-### [Adobe Creative Cloud Disconnect]({{ jcoz00.github.io/accd }}/)
+### [Adobe Creative Cloud Disconnect]({{ site.baseurl }}/accd)
 
 A .framework file that block connections to Adobe to let you use your Creative Cloud apps freely!
 
