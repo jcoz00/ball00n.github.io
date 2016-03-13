@@ -24,8 +24,8 @@ A .framework file that blocks connections to Adobe to let you use your Creative 
 
 ### Game Servers
 
-[GreenBalloon Showdown!]({{ greenballoon.psim.us }})
+[GreenBalloon Showdown!](http://greenballoon.psim.us)
 
-TorchCraft Server (Discontinued)
+[TorchCraft Server](http://torchcraftserver.webs.com) (Discontinued)
 
 TorchCraft Build Server (Private)
