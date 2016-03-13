@@ -8,7 +8,7 @@ Disable Adobe's checks to kick you off Creative Cloud!
 
 ### What is it?
 
-This file 
+This file prohibits Adobe's checks that prevent you from using yur Creative Cloud apps after the trial period is over.
 
 ### How do I do it?
 
