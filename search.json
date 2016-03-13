@@ -10,4 +10,4 @@
 		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}"
 		} {% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
-]
+] 
