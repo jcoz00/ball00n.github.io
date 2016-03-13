@@ -4,12 +4,24 @@ title: Adobe Creative Cloud Disconnect
 permalink: /accd/
 ---
 
-Test
+Disable Adobe's checks to kick you off Creative Cloud!
 
-### Test
+### What is it?
 
-A place to include any other types of information that you'd like to include about yourself.
+This file 
 
-### test
+### How do I do it?
 
-You can contact me using any of the buttons at the bottom of every page.
+1. Make sure that you are signed in to Adobe Creative Cloud.
+2. Download your respective application from Adobe Creative Cloud (Photoshop, Lightroom, etc.) DO NOT OPEN IT
+3. Navigate to the application in your Applications folder
+4. Right-Click the app and select "Show Package Contents"
+5. Open the folder "Frameworks"
+6. Place the hacked file in the folder and select "Replace"
+7. That's it!
+
+NOTICE: If you decide to update one of your applications, you will have to repeat this process.
+
+### Download
+
+Download ACCD for Mac here.
