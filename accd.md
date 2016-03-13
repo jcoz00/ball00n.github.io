@@ -24,4 +24,4 @@ NOTICE: If you decide to update one of your applications, you will have to repea
 
 ### Download
 
-([Download ACCD for Mac here](google.com)).
+[Download ACCD for Mac here](http://google.com)
