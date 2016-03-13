@@ -20,7 +20,7 @@ Gifs in your notification center! (In Progress)
 
 ### [Adobe Creative Cloud Disconnect]({{ site.baseurl }}/accd)
 
-A .framework file that block connections to Adobe to let you use your Creative Cloud apps freely!
+A .framework file that blocks connections to Adobe to let you use your Creative Cloud apps freely!
 
 ### Game Servers
 
