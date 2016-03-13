@@ -158,7 +158,7 @@ ath.defaults = {
 	modal: false,				// prevent further actions until the message is closed
 	mandatory: false,			// you can't proceed if you don't add the app to the homescreen
 	autostart: true,			// show the message automatically
-	skipFirstVisit: false,		// show only to returning visitors (ie: skip the first time you visit)
+	skipFirstVisit: true,		// show only to returning visitors (ie: skip the first time you visit)
 	startDelay: 1,				// display the message after that many seconds from page load
 	lifespan: 15,				// life of the message in seconds
 	displayPace: 1440,			// minutes before the message is shown again (0: display every time, default 24 hours)
