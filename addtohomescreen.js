@@ -475,7 +475,7 @@ ath.Class.prototype = {
 			if ( ath.OS == 'ios' ) {
 				this.applicationIcon = document.querySelector('head link[rel^=apple-touch-icon][sizes="152x152"],head link[rel^=apple-touch-icon][sizes="120x120"],head link[rel^=apple-touch-icon][sizes="76x76"],head link[rel^=apple-touch-icon][sizes="60x60"],head link[rel^=apple-touch-icon]');
 			} else {
-				this.applicationIcon = document.querySelector('head link[rel^="shortcut icon"][sizes="196x196"],head link[rel^=apple-touch-icon]');
+				this.applicationIcon = document.querySelector('head link[rel^="shortcut icon"][sizes="152x152"],head link[rel^=apple-touch-icon]');
 			}
 		}
 
