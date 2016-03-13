@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://jcoz00.github.io'
-  relativeLinks: 'http://jcoz00.github.io/links.jsonp'
+  siteurl: ''
+  relativeLinks: '/links.jsonp'
   media: 'images'
   metadata:
     _posts:
