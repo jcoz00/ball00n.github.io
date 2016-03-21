@@ -4,7 +4,7 @@ title: Adobe Creative Cloud Disconnect
 permalink: /accd/
 ---
 
-Disable Adobe's checks that kick you off Creative Cloud!
+Disable Adobe's checks that kick you off Creative Cloud! (I do not support piracy)
 
 ### What is it?
 
