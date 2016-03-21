@@ -8,7 +8,7 @@ Welcome to my projects page! Feel free to explore!
 
 ### [Ball00n Installer]({{ site.baseurl }}/ball00n)
 
-The Cydia for non-jailbreakers.
+The bridge between Cydia and the App Store for non-jailbroken iOS.
 
 ### [Ball00n Hack]({{ site.baseurl }}/ball00n-hack)
 
@@ -22,10 +22,8 @@ Gifs in your notification center! (In Progress)
 
 A .framework file that blocks connections to Adobe to let you use your Creative Cloud apps freely!
 
-### Game Servers
+### Games
+
+[Minecraft](http://jcoz00.github.io/minecraft)
 
 [GreenBalloon Showdown!](http://greenballoon.psim.us)
-
-[TorchCraft Server](http://torchcraftserver.webs.com) (Discontinued)
-
-TorchCraft Build Server (Private)
