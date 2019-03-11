@@ -19,9 +19,9 @@ avatar: https://jcoz00.github.io/images/main.jpg
 footer-links:
   dribbble:
   email: jamescozzi00@gmail.com
-  facebook: jamescozzi.7
+  facebook: jcoz00
   flickr:
-  github: 
+  github: jcoz00
   instagram: jcoz00
   linkedin: jamescozzi
   pinterest:
@@ -41,7 +41,7 @@ google_analytics: UA-55773404-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://jcoz00.github.io
+url: https://jcoz00.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
