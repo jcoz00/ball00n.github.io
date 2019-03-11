@@ -6,9 +6,13 @@ permalink: /projects/
 
 Welcome to my projects page! Feel free to explore!
 
+### [Cydia APT Repository]({{ site.baseurl }}/repo)
+
+My Cydia APT repository for Jailbroken iOS.
+
 ### [Ball00n Installer]({{ site.baseurl }}/ball00n)
 
-The bridge between Cydia and the App Store for non-jailbroken iOS.
+The bridge between Cydia and the App Store for non-Jailbroken iOS.
 
 ### [Ball00n Hack]({{ site.baseurl }}/ball00n-hack)
 
