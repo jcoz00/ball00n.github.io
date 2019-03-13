@@ -10,6 +10,10 @@ Welcome to my projects page! Feel free to explore!
 
 My Cydia APT repository for Jailbroken iOS.
 
+### Minecraft Server Installer and Executor (MSIE)
+
+No more hassle with setting up a Minecraft server. *Coming soon!*
+
 ### [Adobe Creative Cloud Disconnect]({{ site.baseurl }}/accd)
 
 A .framework file that blocks connections to Adobe to let you use your Creative Cloud apps freely!
