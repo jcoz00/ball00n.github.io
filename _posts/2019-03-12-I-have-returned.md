@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm back!
+title: I have returned.
 ---
 
 Finally after a long while of inactivity, I am officially back into developing. I am very excited to share my new projects upcoming for this year, so with out further to do...
