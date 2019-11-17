@@ -10,12 +10,6 @@ Welcome to my projects page! Feel free to explore!
 
 My APT repository for Jailbroken iOS.
 
-### Minecraft Server Installer and Executor (MSIE)
+### [Games]({{ site.baseurl}}/games)
 
-No more hassle with setting up a Minecraft server. *Coming soon!*
-
-### Games
-
-[Minecraft](http://jcoz00.github.io/minecraft)
-
-[GreenBalloon Showdown!](http://greenballoon.psim.us)
+Various projects involving different games.

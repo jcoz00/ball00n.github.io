@@ -1,10 +1,16 @@
 ---
 layout: page
 title: Minecraft
-permalink: /minecraft/
+permalink: /games/minecraft/
 ---
 
 All of my Minecraft creations.
+
+### Utilities
+
+[Minecraft Server Installer and Executor (MSIE)](https://jcoz00.github.io/games/minecraft/MSIE/)
+
+No more hassle with setting up a Minecraft server. *Coming soon!*
 
 ### Servers
 
@@ -18,7 +24,7 @@ The Temple of Notch (Remake): [View Thread](http://www.minecraftforum.net/forums
 
 ### Other
 
-[Team TorchCraft](http://teamtc.webs.com)
+[Team TorchCraft](http://teamtc.webs.com) (Inactive)
 
 [Minecraft Forum Profile](http://www.minecraftforum.net/members/jcoz00)
 
