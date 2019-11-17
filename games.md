@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Games
-permalink: /games/
+permalink: /projects/games/
 ---
 
 Game Servers and Projects
 
-### Minecraft](http://jcoz00.github.io/games/minecraft)
+### [Minecraft](http://jcoz00.github.io/games/minecraft)
 
 Minecraft servers, maps and other projects.
 
