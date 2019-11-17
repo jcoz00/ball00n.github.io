@@ -3,11 +3,12 @@ layout: page
 title: Debian Repo Utilities
 permalink: /projects/scripts/DRU/
 ---
+****
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
-2. [What's included?](#usage)
-3. [How do I use it?](#third-example)
+2. [What's included?](#inc)
+3. [How do I use it?](#use)
 
 ### Prerequisites
 
@@ -18,7 +19,7 @@ permalink: /projects/scripts/DRU/
  	- Mac users can use [Homebrew](http://brew.sh) to install: `brew install dpkg`
 
 
-<a name="usage"></a>
+<a name="inc"></a>
 ### What's included?
 
 **Compile Repo:** Compiles the repository by utilizing a the Pearl script. Produces the Release, Packages, Packages.gz and Packages.bz2 files.
@@ -29,6 +30,8 @@ permalink: /projects/scripts/DRU/
 
 **dpkg-gettext.pl:** Pearl script used by dpkg-scanpackages.
 
+
+<a name="use"></a>
 ### How do I use it?
 
 So glad you asked! It's actually quite simple.
