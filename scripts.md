@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Scripts
+permalink: /projects/scripts
 ---
 
-Welcome to my projects page! Feel free to explore!
+Various scripts I use that may or may not come in handy.
 
-### [APT Repository]({{ site.baseurl }}/repo)
+### [Debian Repository Compilers]({{ site.baseurl }}/repo)
 
 My APT repository for Jailbroken iOS.
 
