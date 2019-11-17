@@ -6,7 +6,7 @@ permalink: /projects/scripts/DRU/
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
-2. [What's included?](#Whats%20Included%3F)
+2. [What's included?](#usage)
 3. [How do I use it?](#third-example)
 
 ### Prerequisites
@@ -18,7 +18,8 @@ permalink: /projects/scripts/DRU/
  	- Mac users can use [Homebrew](http://brew.sh) to install: `brew install dpkg`
 
 
-### Whats included?
+<a name="usage"></a>
+### What's included?
 
 **Compile Repo:** Compiles the repository by utilizing a the Pearl script. Produces the Release, Packages, Packages.gz and Packages.bz2 files.
 
