@@ -6,14 +6,10 @@ permalink: /projects/scripts
 
 Various scripts I use that may or may not come in handy.
 
-### [Debian Repository Compilers]({{ site.baseurl }}/repo)
+### [Debian Repository Utilities]({{ site.baseurl }}/projects/scripts/DRU)
 
-My APT repository for Jailbroken iOS.
+Bash and Pearl scripts used in compiling Debian repositories.
 
-### [Scripts]({{ site.baseurl }}/scripts)
+### [Minecraft Server Installer and Executor (MSIE)]({{ site.baseurl }}/projects/scripts/MSIE)
 
-Various scripts that I have made use frequently.
-
-### [Games]({{ site.baseurl}}/projects/games)
-
-Various projects involving different games.
+No more hassle with setting up a Minecraft server. *Coming soon!*

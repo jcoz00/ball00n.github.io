@@ -8,7 +8,7 @@ All of my Minecraft creations.
 
 ### Utilities
 
-[Minecraft Server Installer and Executor (MSIE)](https://jcoz00.github.io/games/minecraft/MSIE/)
+[Minecraft Server Installer and Executor (MSIE)](https://jcoz00.github.io/projects/scripts/MSIE/)
 
 No more hassle with setting up a Minecraft server. *Coming soon!*
 
