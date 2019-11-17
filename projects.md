@@ -10,6 +10,6 @@ Welcome to my projects page! Feel free to explore!
 
 My APT repository for Jailbroken iOS.
 
-### [Games]({{ site.baseurl}}/games)
+### [Games]({{ site.baseurl}}/projects/games)
 
 Various projects involving different games.
