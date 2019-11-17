@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minecraft
-permalink: /games/minecraft/
+permalink: /projects/games/minecraft/
 ---
 
 All of my Minecraft creations.
