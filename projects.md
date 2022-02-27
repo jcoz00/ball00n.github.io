@@ -11,6 +11,8 @@ I have many hobbies and want to share my work with the world.
 
 I have played the Violin since I was 7 years old. I have been a member of numerous orchestral groups and have played a variety of repertoire. Find the full list along with recordings, articles, etc. below.
 
+****
+
 ### [Repertoire]({{ site.baseurl }}/violin/repertoire)
 
 List of orchestral, chamber, and solo repertoire I have played and am currently working on.
@@ -24,6 +26,8 @@ My memberships of various orchestral groups over the years along with articles a
 
 Various projects involving coding, automation, etc.
 
+****
+
 ### [Michigan State University Concert Orchestra Legacy Web-host Migration and Upgrade]({{ site.baseurl }}/technology/CO-Website)
 
 ### [Scripts]({{ site.baseurl }}/technology/scripts)
@@ -33,10 +37,14 @@ I love to automate where I can. Collection of scripts I have made.
 
 ## Medicine
 
+****
+
 *Coming soon!*
 
 
 ## Other
+
+****
 
 ### [Teaching]({{ site.baseurl }}/teaching)
 
