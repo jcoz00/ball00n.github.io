@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scripts
-permalink: /projects/scripts
+permalink: /technology/scripts
 ---
 
 Collection of scripts I have made that may or may not come in handy.
