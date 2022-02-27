@@ -6,7 +6,16 @@ permalink: /projects/
 
 I have many hobbies and want to share my work with the world.
 
+****
 
+[Violin](#violin)
+[Technology](#technology)
+[Medicine](#medicine)
+[Other](#other)
+
+****
+
+<a name="violin"></a>
 ## [Violin]({{ site.baseurl }}/violin)
 
 I have played the Violin since I was 7 years old. I have been a member of numerous orchestral groups and have played a variety of repertoire. Find the full list along with recordings, articles, etc. below.
@@ -22,6 +31,7 @@ List of orchestral, chamber, and solo repertoire I have played and am currently 
 My memberships of various orchestral groups over the years along with articles and recordings pertaining to them.
 
 
+<a name="technology"></a>
 ## [Technology]({{ site.baseurl }}/technology)
 
 Various projects involving coding, automation, etc.
@@ -35,6 +45,7 @@ Various projects involving coding, automation, etc.
 I love to automate where I can. Collection of scripts I have made.
 
 
+<a name="medicine"></a>
 ## Medicine
 
 ****
@@ -42,6 +53,7 @@ I love to automate where I can. Collection of scripts I have made.
 *Coming soon!*
 
 
+<a name="other"></a>
 ## Other
 
 ****
