@@ -8,7 +8,7 @@ I have many hobbies and want to share my work with the world.
 
 ****
 
-**[Violin](#violin)** | **[Technology](#technology)** | **[Medicine](#medicine)** | **[Other](#other)**
+**[Violin](#violin)** [|] **[Technology](#technology)** [|] **[Medicine](#medicine)** [|] **[Other](#other)**
 
 ****
 
