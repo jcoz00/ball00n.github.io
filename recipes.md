@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recipes
-permalink: /recipes
+permalink: /projects/recipes
 ---
 
 
